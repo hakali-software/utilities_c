@@ -1,0 +1,9 @@
+<person,0
+identifier=",1
+identifier2=",1
+<name,1,c
+<address,1,l
+<gender>,1
+<birthdate>,1
+<phone,1,o
+<education>,1

@@ -1,0 +1,30 @@
+<person identifier="12345" identifier2="54321">
+  <name nickname="Jhonny">
+    <firstname>John</firstname>
+    <middlename>Miles</middlename>
+    <lastname>Smith</lastname>
+  </name>
+  <address country="USA">Dallas</address>
+  <gender>male</gender>
+  <birthdate>10.11.1964</birthdate>
+  <phone location="home">555-555</phone>
+  <education>PhD</education>
+  <workhistory>trainee at company A</workhistory>
+  <workhistory>clerk at company B</workhistory>
+  <workhistory>manager at company C</workhistory>
+</person>
+<person identifier="12345" identifier2="54321">
+  <name nickname="Jhonny">
+    <firstname>John</firstname>
+    <middlename>Miles</middlename>
+    <lastname>Smith</lastname>
+  </name>
+  <address country="USA">Dallas</address>
+  <gender>male</gender>
+  <birthdate>10.11.1964</birthdate>
+  <phone location="home">555-555</phone>
+  <education>PhD</education>
+  <workhistory>trainee at company A</workhistory>
+  <workhistory>clerk at company B</workhistory>
+  <workhistory>manager at company C</workhistory>
+</person>

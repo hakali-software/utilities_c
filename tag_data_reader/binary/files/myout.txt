@@ -1,0 +1,6 @@
+"12345","54321","trainee at company A"
+"12345","54321","clerk at company B"
+"12345","54321","manager at company C"
+"12345","54321","trainee at company A"
+"12345","54321","clerk at company B"
+"12345","54321","manager at company C"
